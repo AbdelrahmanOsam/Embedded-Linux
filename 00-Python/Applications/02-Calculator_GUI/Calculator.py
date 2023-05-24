@@ -1,3 +1,10 @@
+'''**********************************************************************'''
+'''
+* AUTHOR  : Abdelrahman Osam Khaled
+* Date    : 24 May , 2023
+* Version : V1.0	
+'''
+'''**********************************************************************'''
 # Import tkinter module in python code
 from tkinter import *
 
@@ -63,7 +70,7 @@ if __name__ == "__main__":
     window1.title("Simple Calculator")
  
     # set the configuration of GUI window
-    window1.geometry("500x500")
+    window1.geometry("495x375")
  
     # StringVar() is the variable class
     # we create an instance of this class
