@@ -1,0 +1,16 @@
+FirstNum=input("enter the first number")
+SecondNum=input("enter the second number")
+
+FirstNum = int(FirstNum)
+SecondNum = int(SecondNum)
+
+print(FirstNum+SecondNum)
+print(FirstNum-SecondNum)
+print(FirstNum*SecondNum)
+print(FirstNum/SecondNum)
+print(FirstNum&SecondNum)
+print(FirstNum|SecondNum)
+print(FirstNum^SecondNum)
+print(FirstNum==SecondNum)
+print(FirstNum>=SecondNum)
+print(FirstNum<=SecondNum)

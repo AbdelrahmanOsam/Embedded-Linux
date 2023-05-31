@@ -1,6 +1,6 @@
 '''**********************************************************************'''
 '''
-* AUTHOR  : Abdelrahman Osam Khaled
+* AYTHOR  : Abdelrahman Osam Khaled
 * Date    : 10 May , 2023
 * Version : V1.0	
 '''
